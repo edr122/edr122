@@ -1,4 +1,4 @@
-## Hi, I'm [Eder Albino](https://ederalbino.github.io) 😄  
+## Hi, I'm [Eder Albino](https://edr122.github.io) 😄  
 Software Engineer
 
 [![Linkedin Badge](https://img.shields.io/badge/-edr122-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eder-alberto-albino-huertas-941419123)](https://www.linkedin.com/in/eder-alberto-albino-huertas-941419123/)
